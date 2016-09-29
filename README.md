@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 here a walkthrough of implemented user stories:
 
 
-![Alt Text](url)
+![calulator](http://i.imgur.com/XrnvsLq.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
