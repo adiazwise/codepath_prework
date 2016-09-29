@@ -30,8 +30,8 @@ The following **additional** features are implemented:
 
 here a walkthrough of implemented user stories:
 
-![GitHub Logo](https://cloud.githubusercontent.com/assets/5353468/18940836/b2c26a9c-85d9-11e6-9364-2863554bf1b9.gif))
-Format: ![Alt Text](url)
+
+![Alt Text](url)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
